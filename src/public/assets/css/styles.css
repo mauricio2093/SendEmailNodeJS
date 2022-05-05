@@ -620,7 +620,7 @@ header{
   }
   
   .home__container {
-    height: 120vh;
+    height: 10vh;
     grid-template-rows: 1.8fr .5fr;
   }
   .home__data {
